@@ -5,11 +5,11 @@
 国土地理院が整備している地図情報（道路中心線）について、GeoJSONタイルに変換したものを提供実験いたします。
 
 ## 地図情報（道路中心線）
-テンプレート URL: http://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/{z}/{x}/{y}.geojson
+テンプレート URL: https://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/{z}/{x}/{y}.geojson
 
-サンプル：http://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/16/58242/25798.geojson
+サンプル：https://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/16/58242/25798.geojson
 
-ベクトルタイルスタイル定義：http://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/style_canvas.js
+ベクトルタイルスタイル定義：https://cyberjapandata.gsi.go.jp/xyz/experimental_rdcl/style_canvas.js
 
 ## データについて
 地図情報（道路中心線）をズームレベル 16の GeoJSON タイルに変換したものを提供実験いたします。
@@ -17,14 +17,14 @@
 データの内容の詳細は、電子国土基本図地図情報ファイル仕様書（PDFファイル）（http://www.gsi.go.jp/common/000189294.pdf ）等をご覧ください。
 
 ## デモサイト
-地理院地図  
-http://maps.gsi.go.jp/#17/35.707179/139.959544/&base=ort&ls=ort%7Cexperimental_railcl%7Cexperimental_anno&disp=111&lcd=experimental_anno&vs=c1j0l0u0t0z0r0f0&d=l
+地理院地図  
+https://maps.gsi.go.jp/#17/35.707179/139.959544/&base=ort&ls=ort%7Cexperimental_railcl%7Cexperimental_anno&disp=111&lcd=experimental_anno&vs=c1j0l0u0t0z0r0f0&d=l
 
-github　　
-http://gsi-cyberjapan.github.io/vector-tile-experiment/
+github  
+https://gsi-cyberjapan.github.io/vector-tile-experiment/
 
-github(canvas)　　
-http://gsi-cyberjapan.github.io/vector-tile-experiment/canvas.html
+github(canvas)  
+https://gsi-cyberjapan.github.io/vector-tile-experiment/canvas.html
 
 
 ## 提供の位置づけ
